@@ -9,4 +9,4 @@ store.subscribe(() => {
 // disptach actions
 store.dispatch(fetchVideos());
 
-console.log(`Hello ${fetchVideos()?.video?.videos}`);
+// console.log(`Hello ${fetchVideos()?.video?.videos}`);
